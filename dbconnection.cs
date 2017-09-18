@@ -224,4 +224,8 @@ public class dbconnection
 
     }
     #endregion
+	
+	public static string GET_XML(){
+		
+	}
 }
