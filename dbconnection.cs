@@ -228,4 +228,8 @@ public class dbconnection
 	public static string Monali_Kapadiya(){
 		
 	}
+	
+	public static string khushbu_maradiya(){
+		
+	}
 }
