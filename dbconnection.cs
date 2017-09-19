@@ -225,7 +225,7 @@ public class dbconnection
     }
     #endregion
 	
-	public static string Monali_Kapadiya(){
+	public static string Janki_Dhamsania(){
 		
 	}
 }
