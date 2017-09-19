@@ -225,13 +225,9 @@ public class dbconnection
     }
     #endregion
 	
-	public static string Janki_Dhamsania(){
+	public static string Amee_Parmar(){
 		
 	}
 	
-	public static string khushbu_maradiya(){
-		
-	}
-	public static string Dharti_Mungra(){
-	}
+	
 }
