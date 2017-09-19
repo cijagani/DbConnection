@@ -224,7 +224,8 @@ public class dbconnection
 
     }
     #endregion
-	
+	public static void Niraj_Tank(){		
+	}
 	public static string GET_XML(){
 		
 	}
