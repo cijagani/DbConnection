@@ -224,7 +224,7 @@ public class dbconnection
 
     }
     #endregion
-	
+	public static string Ankit_khatrani(){}
 	public static string GET_XML(){
 		
 	}
