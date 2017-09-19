@@ -228,4 +228,10 @@ public class dbconnection
 	public static string GET_XML(){
 		
 	}
+	
+	public static string BOKHANI_NIDHI(){
+		
+	}
+	
+	
 }
