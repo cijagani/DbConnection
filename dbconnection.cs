@@ -225,7 +225,7 @@ public class dbconnection
     }
     #endregion
 	
-	public static string GET_XML(){
+	public static string PRITI_ZALORIYA(){
 		
 	}
 }
